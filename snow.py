@@ -1,3 +1,4 @@
+# scirpt used in the project "Plowing"
 import os, sys
 from collections import defaultdict, namedtuple
 
